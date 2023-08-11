@@ -6,4 +6,4 @@
 
 
 
-<img src="1.png"/>   <img src="2.png"/>
+<img tyle="width: 50%;" src="1.png"/>   <img tyle="width: 50%;" src="2.png"/>
