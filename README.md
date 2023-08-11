@@ -6,4 +6,4 @@
 
 
 
-<img style="width: 60%;" src="1.png"/>   <img style="width: 60%;" src="2.png"/>
+<img style="width: 50%;" src="1.png"/>   <img style="width: 50%;" src="2.png"/>
