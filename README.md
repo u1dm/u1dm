@@ -6,6 +6,6 @@
 
 
 
-<img style="width: 45%;" src="1w.png"/>   <img style="width: 45%;" src="[2w.png](https://github.com/ivanka3006/monet/blob/main/.github/assets/2.png)https://github.com/ivanka3006/monet/blob/main/.github/assets/2.png"/>
+<img style="width: 45%;" src="https://github.com/ivanka3006/monet/blob/main/.github/assets/2.png?raw=true"/>   <img style="width: 45%;" src="2w.png"/>
 
 
