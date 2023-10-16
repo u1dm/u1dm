@@ -6,6 +6,5 @@
 
 
 
-<img style="width: 100%;" src="https://github.com/u1dm/dotsfiles/blob/main/.github/Dotsfiles.png"/>   
-
+<img style="width: 100%;" src="https://github.com/u1dm/dotfiles/blob/main/.github/Dotfiles.png"/>   
 
