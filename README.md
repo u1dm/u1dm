@@ -6,6 +6,6 @@
 
 
 
-<img style="width: 45%;" src="https://github.com/ivanka3006/monet/blob/main/.github/assets/1.png?raw=true"/>   <img style="width: 45%;" src="2w.png"/>
+<img style="width: 100%;" src="https://github.com/u1dm/dotsfiles/blob/main/.github/Dotsfiles.png"/>   
 
 
