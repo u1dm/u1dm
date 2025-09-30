@@ -15,9 +15,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chernuha&layout=compact&theme=tokyonight&hide_border=true&card_width=400" height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=u1dm&layout=compact&theme=tokyonight&hide_border=true&card_width=400" height="200" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=chernuha&theme=tokyonight&hide_border=true&border_radius=12" height="200" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=u1dm&theme=tokyonight&hide_border=true&border_radius=12" height="200" alt="GitHub Streak" />
 </div>
